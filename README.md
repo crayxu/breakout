@@ -1,2 +1,2 @@
-# breakout
-2D breakout game using Phaser
+# 2D breakout game using Phaser
+
